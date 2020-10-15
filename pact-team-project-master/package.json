@@ -1,0 +1,24 @@
+{
+  "name": "pact-team-project",
+  "version": "1.0.0",
+  "description": "Pact team project for CIS425. Website for Delicious Factory",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adfedotov/pact-team-project.git"
+  },
+  "keywords": [],
+  "author": "Alexandra Wityak, Wendell Brimhall, Andrei Fedotov, Matthew Kint",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adfedotov/pact-team-project/issues"
+  },
+  "homepage": "https://github.com/adfedotov/pact-team-project#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
